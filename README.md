@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+:computer: "Ingeniero de computacion"
+:pencil: "Iciando en MLOPS"
+
+
+### Vias de contacto
+<!--![WEbsite](https://www.linkedin.com/in/manuel-valencia-89647024)
+-->
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/manusebas/manusebas)
+
