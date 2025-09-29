@@ -6,6 +6,9 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+  
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -13,10 +16,11 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4.2.2
-      #- name: Recent GitHub Activity - Profile Readme
-      # You may pin to the exact commit or the version.
-      # uses: Readme-Workflows/recent-activity@aa0d01a1f4efdb8595986788eccbfdd430c73b8b
-      #- uses: Readme-Workflows/recent-activity@v2.4.1
+      - name: Configurar Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
       - uses: jamesgeorge007/github-activity-readme@v0.3.6
         with:
            # Your GitHub username
