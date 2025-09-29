@@ -1,0 +1,8 @@
+# .github/recent-activity.config.yml
+settings:
+  commit_msg: true
+  footer_icon: https://github.com/manusebas.png
+  footer_message: Actualizado con actividad reciente
+  max_lines: 5
+  readme_path: README.md
+  timezone: UTC
