@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 -->
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/manusebas/manusebas)
 
-### :zap: Actividad reciente
-<!--RECENT_ACTIVITY:start-- >
-<!--RECENT_ACTIVITY:last_update-- >
+### 📌 Actividad reciente
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
