@@ -1,0 +1,21 @@
+name: Update README
+
+on:
+  schedule:
+    # cada 12 horas
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update Profile README
+
+    steps:
+      - uses: actions/checkout@v4.2.2
+      
+      - uses: jamesgeorge007/github-activity-readme@v0.3.6
+        with:
+          GH_USERNAME: manusebas
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
