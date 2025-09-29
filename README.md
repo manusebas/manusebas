@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 :computer: "Ingeniero de computacion"
-:pencil: "Iciando en MLOPS"
+:pencil: "Iniciando en MLOPS"
 
 ### Vias de contacto
 <!--![WEbsite](https://www.linkedin.com/in/manuel-valencia-89647024)
