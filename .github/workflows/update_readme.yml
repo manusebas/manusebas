@@ -22,4 +22,5 @@ jobs:
            GH_USERNAME: manusebas # optional, default is ${{ github.repository_owner }}
            # Path to configuration file
            #CONFIG_FILE: # optional, default is ./.github/recent-activity.config.yml
-          
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
