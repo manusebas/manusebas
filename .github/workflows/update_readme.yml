@@ -16,5 +16,6 @@ jobs:
       - uses: Readme-Workflows/recent-activity@main
         with:
           GH_USERNAME: manusebas
+          CONFIG_FILE: ./.github/recent-activity.config.yml
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
