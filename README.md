@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 ### :zap: Actividad reciente
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/manusebas/miPrimerRepo/pull/2) in [manusebas/miPrimerRepo](https://github.com/manusebas/miPrimerRepo)
-2. 💪 Opened PR [#2](https://github.com/manusebas/miPrimerRepo/pull/2) in [manusebas/miPrimerRepo](https://github.com/manusebas/miPrimerRepo)
+1. 🎉 Merged PR [#2](https://github.com/manusebas/miCuartoRepo/pull/2) in [manusebas/miCuartoRepo](https://github.com/manusebas/miCuartoRepo)
+2. 💪 Opened PR [#2](https://github.com/manusebas/miCuartoRepo/pull/2) in [manusebas/miCuartoRepo](https://github.com/manusebas/miCuartoRepo)
 <!--END_SECTION:activity-->
